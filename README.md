@@ -41,8 +41,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-> **Python для Telegram** — язык программирования, который используется для создания Telegram-ботов.
-Бот, написанный на Python, отличается скоростью, безопасностью и стабильностью.
 
 #### FrameWork
 
