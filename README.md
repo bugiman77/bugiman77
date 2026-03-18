@@ -149,7 +149,7 @@
 <!-- START [S E C T I O N] count visits and date profile update -->
 
 <p align="center">
-  <a href="https://github.com/ma5t0d0nt-tg" target="_blank"><img alt="bugiman77g" src="https://img.shields.io/github/followers/bugiman77.svg?style=social&label=Follow&maxAge=2592000"/></a>
+  <a href="https://github.com/ma5t0d0nt-tg" target="_blank"><img alt="bugiman77" src="https://img.shields.io/github/followers/bugiman77.svg?style=social&label=Follow&maxAge=2592000"/></a>
   <a href="https://github.com/ma5t0d0nt-tg" target="_blank"><img alt="bugiman77" src="https://img.shields.io/github/watchers/bugiman77/bugiman77.svg"/></a>
   <a href="https://github.com/ma5t0d0nt-tg" target="_blank"><img alt="bugiman77" src="https://img.shields.io/github/stars/bugiman77/bugiman77.svg"/></a>
 </p>
