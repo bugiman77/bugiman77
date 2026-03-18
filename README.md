@@ -56,12 +56,7 @@
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-> **MongoDB** — документно-ориентированная система управления базами данных (СУБД), которая использует формат JSON 
-> для описания структуры хранящихся в ней объектов/документов.
-
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-
-> PostgreSQL — объектно-реляционная система управления базами данных (СУБД) с открытым исходным кодом.
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
@@ -73,9 +68,6 @@
 #### Container
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
-> **Docker** — программная платформа для разработки, доставки и запуска контейнерных приложений. Она позволяет 
-> создавать контейнеры, автоматизировать их запуск и развёртывание, управляет жизненным циклом.
 
 <!-- END [S E C T I O N] Technology stack -->
 
