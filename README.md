@@ -90,10 +90,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ma5t0d0nt-tg&show_icons=true&count_private=true&theme=one_dark_pro" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=bugiman77&show_icons=true&count_private=true&theme=one_dark_pro" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ma5t0d0nt-tg&layout=compact&theme=one_dark_pro">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bugiman77&layout=compact&theme=one_dark_pro">
       </td>
     </tr>
   </table>
@@ -138,7 +138,7 @@
 
 <!-- START [S E C T I O N] GitHub awards -->
 
-## :trophy: Github Awards
+<!--## :trophy: Github Awards
 
 <div align="center">
   <table>
@@ -148,7 +148,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div>-->
 
 <!-- END [S E C T I O N] GitHub awards -->
 
