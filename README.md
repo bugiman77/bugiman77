@@ -24,7 +24,7 @@
   <table border="0">
     <tr>
       <td>
-        Калькулятор на Jetpack Compose
+        <a href="https://github.com/bugiman77/ComposerCalculator">Калькулятор на Jetpack Compose</a>
       </td>
     </tr>
   </table>
@@ -35,7 +35,7 @@
 
 <!-- START [S E C T I O N] Technology stack -->
 
-## :computer: Technology Stack
+<!--## :computer: Technology Stack
 
 #### Computer language
 
@@ -67,7 +67,7 @@
 
 #### Container
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)-->
 
 <!-- END [S E C T I O N] Technology stack -->
 
@@ -95,19 +95,19 @@
 
 ## :open_file_folder: Interesting Repositories for Me
 
-* [Telegram Desktop](https://github.com/ma5t0d0nt-tg/TelegramDesktop) 
+* [Telegram Desktop](https://github.com/bugiman77/TelegramDesktop) 
 > Telegram Desktop messaging app
 
-* [Telegram Android](https://github.com/ma5t0d0nt-tg/Telegram) 
+* [Telegram Android](https://github.com/bugiman77/Telegram) 
 > Telegram for Android source
 
-* [GitIgnore](https://github.com/ma5t0d0nt-tg/gitignore)
+* [GitIgnore](https://github.com/bugiman77/gitignore)
 > A collection of useful .gitignore templates
 
-* [MarkDown Emoji](https://github.com/ma5t0d0nt-tg/markdown-emojis) 
+* [MarkDown Emoji](https://github.com/bugiman77/markdown-emojis) 
 > 🔥 All the emojis 🎉
 
-* [GitHub Profiles](https://github.com/ma5t0d0nt-tg/awesome-github-profile-readme) 
+* [GitHub Profiles](https://github.com/bugiman77/awesome-github-profile-readme) 
 > A curated list of awesome GitHub Profile which updates in real time
 
 <!-- END [S E C T I O N] Interesting Repositories for Me -->
