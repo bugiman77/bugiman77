@@ -44,19 +44,14 @@
   </tr>
 </table>
 
-<div align="center">
-    <p>
-      <a href="https://github.com/bugiman77" target="_blank"><img alt="bugiman77" src="https://img.shields.io/github/followers/bugiman77.svg?style=social&label=Follow&maxAge=2592000"/></a>
-    </p>
-    <p>
-      <a href="https://github.com/bugiman77/bugiman77" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/bugiman77/bugiman77?label=Profile%20Updated&style=flat-square"></a>
-    </p>
-</div>
+---
 
-<div align="right">
-  <h3>
-    <a href="https://t.me/m/QidnFEAvNzBi">
-      <img width="80" src="https://img.icons8.com/?size=100&id=Sz6lu91x9jqC&format=png&color=000000" alt="darkwood"/>
-    </a>
-  </h3>
-</div>
+<p align="center">
+  <a href="https://github.com/bugiman77"><img src="https://img.shields.io/github/followers/bugiman77.svg?style=social&label=Follow"/></a> <a href="https://github.com/bugiman77/bugiman77"><img src="https://img.shields.io/github/last-commit/bugiman77/bugiman77?label=Updated&style=flat-square"/></a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/m/QidnFEAvNzBi">
+    <img width="120" src="tg_btn.png" />
+  </a>
+</p>
