@@ -25,13 +25,11 @@
 
 <table>
   <tr>
-    <!-- 1 колонка -->
     <td width="50%" align="center">
       <a href="https://github.com/bugiman77/ComposerCalculator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bugiman77&repo=ComposerCalculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ComposerCalculator" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bugiman77&repo=ComposerCalculator&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&description_lines_count=3&cache=100" />
       </a>
     </td>
-    <!-- 2 колонка -->
     <td width="50%" valign="top">
       <h5 style="margin-top: 0;">Interesting Repositories for Me:</h5>
       <div align="left">
