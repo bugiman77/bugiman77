@@ -18,7 +18,16 @@
         "database" to mutableMapOf(
             "relational" to mutableListOf("mysql"),
             "nosql" to mutableListOf("mongodb"),
-            "inMemory" to mutableListOf("room")
+            "inMemory" to mutableListOf("room"),
+        ),
+        "ai" to mutableMapOf(
+            "generativeAI" to mutableListOf(
+                "Prompt engineering",
+            ),
+            "models" to mutableListOf(
+                "OpenAI", 
+                "Gemini",
+            ),
         )
     )
 ```
